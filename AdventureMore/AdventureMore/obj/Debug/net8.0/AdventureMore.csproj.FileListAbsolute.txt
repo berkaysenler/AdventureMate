@@ -1,0 +1,14 @@
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\bin\Debug\net8.0\AdventureMore.exe
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\bin\Debug\net8.0\AdventureMore.deps.json
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\bin\Debug\net8.0\AdventureMore.runtimeconfig.json
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\bin\Debug\net8.0\AdventureMore.dll
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\bin\Debug\net8.0\AdventureMore.pdb
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\obj\Debug\net8.0\AdventureMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\obj\Debug\net8.0\AdventureMore.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\obj\Debug\net8.0\AdventureMore.AssemblyInfo.cs
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\obj\Debug\net8.0\AdventureMore.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\obj\Debug\net8.0\AdventureMore.dll
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\obj\Debug\net8.0\refint\AdventureMore.dll
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\obj\Debug\net8.0\AdventureMore.pdb
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\obj\Debug\net8.0\AdventureMore.genruntimeconfig.cache
+C:\Users\berka\source\repos\AdventureMore\AdventureMore\obj\Debug\net8.0\ref\AdventureMore.dll
