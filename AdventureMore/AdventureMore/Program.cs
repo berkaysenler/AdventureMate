@@ -1,5 +1,5 @@
 ﻿// Berkay Senler
-
+// Intro
 Console.WriteLine("Welcome the the Adventure Game!");
 Console.WriteLine("Please enter your character's name: ");
 string charName = Console.ReadLine();
