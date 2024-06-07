@@ -4,9 +4,10 @@ Console.WriteLine("Welcome the the Adventure Game!");
 Console.WriteLine("Please enter your character's name: ");
 string charName = Console.ReadLine();
 
+// Player details
 while (true)
 {
-    Console.WriteLine("Please choose your character type (Warrior, Wizard, Archer)");
+    Console.WriteLine("Please choose your character type (WARRIOR, WIZARD, ARCHER)");
     string charType = Console.ReadLine().ToUpper();
     if (charType != "WARRIOR" && charType != "WIZARD" && charType != "ARCHER")
     {
@@ -16,11 +17,11 @@ while (true)
     else
     {
         Console.WriteLine("You, {0} the {1} find yourself at the edge of a dark forest! ", charName, charType);
-        Console.WriteLine("Do you enter the forest or camp outside? (Forest/Camp)");
+        Console.WriteLine("Do you enter the forest or camp outside? (FOREST/CAMP)");
         break;
     }
 }
-
+ // The first scenario
 string choice1 = Console.ReadLine();
 
 switch (choice1.ToLower())
@@ -36,6 +37,7 @@ switch (choice1.ToLower())
         Console.WriteLine("Invalid choice. You decide to camp out by default.");
         break;
 }
+
 bool gameContinues = true;
 
 while (gameContinues)
@@ -51,7 +53,7 @@ while (gameContinues)
             break;
         case "right":
             Console.WriteLine("You encounter a wild beast");
-            Console.WriteLine("Fight or flee? (fight/flee)");
+            Console.WriteLine("Fight or flee? (FIGHT/FLEE)");
             string fightChoice = Console.ReadLine();
             switch (fightChoice.ToLower())
             {
